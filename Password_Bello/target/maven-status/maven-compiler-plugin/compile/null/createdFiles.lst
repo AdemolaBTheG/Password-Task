@@ -1,0 +1,6 @@
+org\acme\UserResource.class
+META-INF\panache-archive.marker
+org\acme\main\MyService.class
+org\acme\User.class
+org\acme\UserService.class
+org\acme\UserRepository.class
